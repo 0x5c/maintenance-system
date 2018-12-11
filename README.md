@@ -14,4 +14,4 @@ But I already hear you ask: *What is that? Why that?*. Well, my goal is to make 
 
 *Coding, I guess*
 
-Some example modules are included in this repo.
+Some example modules will be included in this repo shortly.
